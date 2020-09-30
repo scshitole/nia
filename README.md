@@ -1,4 +1,4 @@
-# NIA wwith BIG-IP
+# NIA with BIG-IP
 
 ## Pre requisite
 

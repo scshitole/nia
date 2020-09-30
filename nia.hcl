@@ -8,10 +8,10 @@ driver "terraform" {
   }
 }
 consul {
-  address = "52.90.90.230:8500"
+  address = "consul_ip:8500"
 }
 provider "bigip" {
-  address  = "10.192.74.74"
+  address  = "hostip"
 }
 task {
   name = "CreateBasicNetworkingonBIG-IP"
