@@ -16,6 +16,9 @@ consul-nia -consul-file nia.hcl
 
 ```
 
+
+![Consul GUI Showing NIA tasks](consul.png)
+
 ## Pre requisite
 
 - Make sure you have consul cluster deployed already
